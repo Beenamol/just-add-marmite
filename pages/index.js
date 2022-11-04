@@ -1,4 +1,4 @@
-import { display } from "@mui/system";
+// import { display } from "@mui/system";
 import { createClient } from "contentful"
 import RecipeCard from "../components/RecipeCard";
 
